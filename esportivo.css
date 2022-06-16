@@ -1,0 +1,460 @@
+.e40_13 { 
+	overflow:hidden;
+}
+.e40_13 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:752px;
+	height:1036px;
+	position:absolute;
+}
+.e40_14 { 
+	background-color:rgba(0, 0, 0, 0.7699999809265137);
+	width:752px;
+	height:160px;
+	position:absolute;
+	left:0px;
+	top:3px;
+}
+.e40_15 { 
+	background-color:rgba(255, 187.99994319677353, 3.999999761581421, 0.6800000071525574);
+	width:752px;
+	height:876px;
+	position:absolute;
+	left:0px;
+	top:160px;
+}
+.e40_16 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:708px;
+	height:846px;
+	position:absolute;
+	left:27px;
+	top:175px;
+}
+.e42_48 { 
+	transform: rotate(180deg);
+	width:236px;
+	height:218px;
+	position:absolute;
+	left:263px;
+	top:768px;
+	background-image:url(images/image_logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e42_47 { 
+	transform: rotate(180deg);
+	width:238px;
+	height:220px;
+	position:absolute;
+	left:494px;
+	top:598px;
+	background-image:url(images/image_CHUTEIRA_FUTURE.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e42_44 { 
+	width:214px;
+	height:230px;
+	position:absolute;
+	left:517px;
+	top:772px;
+	background-image:url(images/image_CHUTEIRA_FUTURE_batman.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e42_45 { 
+	width:238px;
+	height:240px;
+	position:absolute;
+	left:263px;
+	top:762px;
+	background-image:url(images/image_CHUTEIRA_PREDATOR.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e40_17 { 
+	width:134px;
+	height:115px;
+	position:absolute;
+	left:27px;
+	top:3px;
+	background-image:url(images/CHUTEIRAXSPEEDFLOW.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e40_18 { 
+	background-color:rgba(9.56250037997961, 9.20390697196126, 9.20390697196126, 0.6899999976158142);
+	width:752px;
+	height:38px;
+	position:absolute;
+	left:0px;
+	top:122px;
+}
+.e40_19 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:105px;
+	height:23px;
+	position:absolute;
+	left:410px;
+	top:133px;
+	font-family:Fugaz One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e40_20 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:46px;
+	height:23px;
+	position:absolute;
+	left:27px;
+	top:133px;
+	font-family:Fugaz One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e40_21 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:84px;
+	height:23px;
+	position:absolute;
+	left:199px;
+	top:133px;
+	font-family:Fugaz One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e40_22 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:89px;
+	height:23px;
+	position:absolute;
+	left:303px;
+	top:133px;
+	font-family:Fugaz One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e40_23 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	color:rgba(255, 255, 255, 1);
+	width:83px;
+	height:23px;
+	position:absolute;
+	left:97px;
+	top:133px;
+	font-family:Fugaz One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e40_24 { 
+	width:75px;
+	height:62px;
+	position:absolute;
+	left:590px;
+	top:6px;
+	background-image:url(images/nike_logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e40_25 { 
+	width:49px;
+	height:48px;
+	position:absolute;
+	left:686px;
+	top:6px;
+	background-image:url(images/air_jordan_logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e40_26 { 
+	width:65px;
+	height:74px;
+	position:absolute;
+	left:590px;
+	top:60px;
+	background-image:url(images/adidas_logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e40_27 { 
+	width:73px;
+	height:51.586666107177734px;
+	position:absolute;
+	left:679px;
+	top:68px;
+	background-image:url(images/puma_logo.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e40_35 { 
+	color:rgba(0, 0, 0, 1);
+	width:260px;
+	height:61px;
+	position:absolute;
+	left:411px;
+	top:567px;
+	font-family:Fugaz One;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e40_36 { 
+	color:rgba(0, 0, 0, 1);
+	width:252px;
+	height:54px;
+	position:absolute;
+	left:101px;
+	top:225px;
+	font-family:Fugaz One;
+	text-align:center;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e41_38 { 
+	width:234px;
+	height:189px;
+	position:absolute;
+	left:27px;
+	top:160px;
+	background-image:url(images/chuteira_nike_mercurial.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_39 { 
+	width:225px;
+	height:195px;
+	position:absolute;
+	left:269px;
+	top:159px;
+	background-image:url(images/chuteira_nike_vapor.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_40 { 
+	width:229px;
+	height:232px;
+	position:absolute;
+	left:27px;
+	top:354px;
+	background-image:url(images/chuteira_mercurial_vapor_14.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_41 { 
+	width:242px;
+	height:230px;
+	position:absolute;
+	left:492px;
+	top:356px;
+	background-image:url(images/chuteira_mercurial_vapor.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_42 { 
+	width:212px;
+	height:186px;
+	position:absolute;
+	left:507px;
+	top:163px;
+	background-image:url(images/chuteira_phatom.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e41_43 { 
+	width:241px;
+	height:228px;
+	position:absolute;
+	left:251px;
+	top:349px;
+	background-image:url(images/chuteira_mercurial_superfly.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e42_46 { 
+	transform: rotate(180deg);
+	width:238px;
+	height:190px;
+	position:absolute;
+	left:270px;
+	top:607px;
+	background-image:url(images/chuteira_gamemode.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e42_49 { 
+	transform: rotate(180deg);
+	width:238px;
+	height:217px;
+	position:absolute;
+	left:735px;
+	top:601px;
+	background-image:url(images/chuteira_predator_edge.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e42_50 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:56px;
+	top:339px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_51 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:300px;
+	top:348px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_56 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:532px;
+	top:777px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_60 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:308px;
+	top:938px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_61 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:62px;
+	top:938px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_59 { 
+	color:rgba(0, 0, 0, 1);
+	width:164px;
+	height:69px;
+	position:absolute;
+	left:555px;
+	top:942px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_57 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:295px;
+	top:780px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_58 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:59px;
+	top:765px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_53 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:541px;
+	top:344px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_52 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:63px;
+	top:551px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_54 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:289px;
+	top:552px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e42_55 { 
+	color:rgba(0, 0, 0, 1);
+	width:183px;
+	height:79px;
+	position:absolute;
+	left:533px;
+	top:558px;
+	font-family:Gravitas One;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.e46_107 { 
+	color:rgba(255, 210.00000268220901, 85.0000025331974, 1);
+	width:362px;
+	height:97px;
+	position:absolute;
+	left:199px;
+	top:0px;
+	font-family:Hanuman;
+	text-align:center;
+	font-size:48px;
+	letter-spacing:0;
+}
